@@ -12,7 +12,7 @@ import java.util.*;
 public class OOServer
 {
     static ServerSocket serverSocket = null;  // listening socket
-    static int portNumber = 5555;            // port on which server listens
+    static int portNumber = 55555;            // port on which server listens
     static Socket clientSocket = null;        // socket to a client
 
     /* Start the server then repeatedly wait for a connection request, accept,
