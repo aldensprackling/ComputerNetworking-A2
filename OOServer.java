@@ -152,7 +152,9 @@ class OO implements Runnable
                
                switch (request) 
                {
-               case "1", "2", "3":
+               case "1":
+               case "2":
+               case "3":
                   order.addItem(psm.getOption(Integer.parseInt(request)));
                   break;
                case "4":
@@ -179,7 +181,8 @@ class OO implements Runnable
                
                switch (request) 
                {
-               case "1", "2":
+               case "1":
+               case "2":
                   order.addItem(hsm.getOption(Integer.parseInt(request)));
                   break;
                case "3":
