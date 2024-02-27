@@ -1,6 +1,6 @@
 /* Client program for the OnlineOrder app
 
-   @author <YOUR FULL NAMES GO HERE>
+   @author Alden Sprackling, Alex Ceithamer, Danial Moczynski
 
    @version CS 391 - Spring 2024 - A2
 */

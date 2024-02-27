@@ -1,13 +1,12 @@
 /* Server program for the OnlineOrder app
 
-   @author Alden Sprackling
+   @author Alden Sprackling, Alex Ceithamer, Danial Moczynski
 
    @version CS 391 - Spring 2024 - A2
 */
 
 import java.net.*;
 import java.io.*;
-import java.util.*;
 
 public class OOServer
 {
